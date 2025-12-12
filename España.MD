@@ -177,112 +177,316 @@ Arquitectura canaria y clima suave.
 ![La Orotava](https://imgs.search.brave.com/o-2xqGNZtb2cBTlCIJD_S9xMT8rFXhJZMqwzd7AmwcU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS53bXNtLmNvLzY3/ZTIxYmZmNmVhZjEv/Y2FzYS1kZS1sb3Mt/YmFsY29uZXMtbGEt/b3JvdGF2YS53ZWJw/P3F1YWxpdHk9ODAm/d2lkdGg9ODAwJmhl/aWdodD02MDAmYXNw/ZWN0X3JhdGlvPTgw/MDo2MDA)
 
 ## SIN HACER
-## Galicia
-### Ribadeo
-### Viveiro
-### Cedeira
-### Baiona
-### Ribadavia
 
-## Asturias
-### Lastres
-### Tazones
-### Somiedo
-### Luarca
-### Cabo Vidio
+Galicia
+Ribadeo
 
-## Cantabria
-### Comillas
-### Suances
-### Castro Urdiales
-### Isla
-### Liencres
+🔎 "Ribadeo Playa de las Catedrales arcos naturales"
 
-## Castilla y León
-### León
-### Medina del Campo
-### Frías
-### Peñafiel
-### Ponferrada
+Viveiro
 
-## Aragón
-### Aínsa
-### Alquézar
-### Jaca
-### Ansó
-### Canfranc
+🔎 "Viveiro Galicia casco histórico puente medieval"
 
-## Cataluña
-### Rupit
-### Peratallada
-### Cadaqués
-### Tavertet
-### Bagà
+Cedeira
 
-## Andalucía
-### Úbeda
-### Baeza
-### Nerja
-### Frigiliana
-### Setenil de las Bodegas
+🔎 "Cedeira acantilados San Andrés de Teixido"
 
-## Comunidad Valenciana
-### Peñíscola
-### Morella
-### Xàtiva
-### Guadalest
-### Villajoyosa
+Baiona
 
-## Madrid
-### Chinchón
-### Alcalá de Henares
-### Aranjuez
-### San Lorenzo de El Escorial
-### Patones de Arriba
+🔎 "Baiona Fortaleza Monterreal"
 
-## Castilla-La Mancha
-### Toledo
-### Consuegra
-### Almagro
-### Sigüenza
-### Cuenca (Casas Colgadas)
+Ribadavia
 
-## Navarra
-### Bardenas Reales
-### Tudela
+🔎 "Ribadavia barrio judío casco histórico"
 
-## País Vasco
-### Zumaia
-### Getaria
-### Bermeo
-### Lekeitio
-### Ondarroa
+Asturias
+Lastres
 
-## La Rioja
-### Haro
-### San Vicente de la Sonsierra
-### Ezcaray
+🔎 "Lastres Asturias pueblo colgado sobre el mar"
 
-## Extremadura
-### Cáceres
-### Trujillo
-### Mérida
-### Guadalupe
+Tazones
 
-## Murcia
-### Cartagena
-### Caravaca de la Cruz
+🔎 "Tazones puerto colorido Asturias"
 
-## Islas Baleares
-### Deià
-### Fornalutx
-### Binibeca
+Somiedo
 
-## Islas Canarias
-### Garachico (Tenerife)
-### Masca (Tenerife)
-### Agulo (La Gomera)
-### Tejeda (Gran Canaria)
+🔎 "Somiedo lagos de Saliencia paisaje"
+
+Luarca
+
+🔎 "Luarca mirador del cementerio puerto blanco"
+
+Cabo Vidio
+
+🔎 "Cabo Vidio acantilados panorámica"
+
+Cantabria
+Comillas
+
+🔎 "Comillas El Capricho de Gaudí"
+
+Suances
+
+🔎 "Suances playa de Los Locos acantilados"
+
+Castro Urdiales
+
+🔎 "Castro Urdiales iglesia Santa María y castillo faro"
+
+Isla
+
+🔎 "Isla Cantabria playas rocosas"
+
+Liencres
+
+🔎 "Dunas de Liencres parque natural"
+
+Castilla y León
+León
+
+🔎 "Catedral de León vidrieras interiores"
+
+Medina del Campo
+
+🔎 "Castillo de La Mota vista aérea"
+
+Frías
+
+🔎 "Frías casas colgadas puente medieval"
+
+Peñafiel
+
+🔎 "Castillo de Peñafiel forma de barco"
+
+Ponferrada
+
+🔎 "Castillo templario de Ponferrada"
+
+Aragón
+Aínsa
+
+🔎 "Aínsa plaza mayor medieval"
+
+Alquézar
+
+🔎 "Alquézar vista del cañón río Vero"
+
+Jaca
+
+🔎 "Ciudadela de Jaca pentagonal aérea"
+
+Ansó
+
+🔎 "Ansó calles de piedra pueblo pirenaico"
+
+Canfranc
+
+🔎 "Estación Internacional de Canfranc fachada"
+
+Cataluña
+Rupit
+
+🔎 "Rupit puente colgante pueblo piedra"
+
+Peratallada
+
+🔎 "Peratallada murallas medievales calles empedradas"
+
+Cadaqués
+
+🔎 "Cadaqués casas blancas bahía"
+
+Tavertet
+
+🔎 "Tavertet miradores acantilados"
+
+Bagà
+
+🔎 "Bagà casco antiguo Pirineos"
+
+Andalucía
+Úbeda
+
+🔎 "Úbeda plaza Vázquez de Molina arquitectura renacentista"
+
+Baeza
+
+🔎 "Baeza catedral renacentista casco histórico"
+
+Nerja
+
+🔎 "Nerja Balcón de Europa"
+
+Frigiliana
+
+🔎 "Frigiliana pueblo blanco calles empinadas"
+
+Setenil de las Bodegas
+
+🔎 "Setenil de las Bodegas casas bajo las rocas"
+
+Comunidad Valenciana
+Peñíscola
+
+🔎 "Peñíscola castillo del Papa Luna sobre el mar"
+
+Morella
+
+🔎 "Morella castillo y murallas panorámica"
+
+Xàtiva
+
+🔎 "Castillo de Xàtiva en la cima"
+
+Guadalest
+
+🔎 "Guadalest castillo y embalse azul"
+
+Villajoyosa
+
+🔎 "Villajoyosa casas de colores frente al mar"
+
+Madrid
+Chinchón
+
+🔎 "Chinchón plaza mayor circular"
+
+Alcalá de Henares
+
+🔎 "Alcalá de Henares calle Mayor cervantina"
+
+Aranjuez
+
+🔎 "Palacio Real de Aranjuez jardines"
+
+San Lorenzo de El Escorial
+
+🔎 "Monasterio de El Escorial vista frontal"
+
+Patones de Arriba
+
+🔎 "Patones de Arriba arquitectura negra"
+
+Castilla-La Mancha
+Toledo
+
+🔎 "Toledo panorámica con Alcázar y río Tajo"
+
+Consuegra
+
+🔎 "Consuegra molinos de viento y castillo"
+
+Almagro
+
+🔎 "Almagro corral de comedias"
+
+Sigüenza
+
+🔎 "Sigüenza castillo parador"
+
+Cuenca
+
+🔎 "Cuenca casas colgadas"
+
+Navarra
+Bardenas Reales
+
+🔎 "Bardenas Reales castildetierra paisaje desierto"
+
+Tudela
+
+🔎 "Tudela plaza de los Fueros"
+
+País Vasco
+Zumaia
+
+🔎 "Zumaia flysch acantilados"
+
+Getaria
+
+🔎 "Getaria ratón de Getaria vista aérea"
+
+Bermeo
+
+🔎 "Bermeo puerto colorido"
+
+Lekeitio
+
+🔎 "Lekeitio isla de San Nicolás vista marea baja"
+
+Ondarroa
+
+🔎 "Ondarroa puente viejo y puerto"
+
+La Rioja
+Haro
+
+🔎 "Haro barrio de la estación bodegas"
+
+San Vicente de la Sonsierra
+
+🔎 "San Vicente castillo sobre viñedos"
+
+Ezcaray
+
+🔎 "Ezcaray plaza y casas de madera"
+
+Extremadura
+Cáceres
+
+🔎 "Cáceres ciudad medieval casco antiguo"
+
+Trujillo
+
+🔎 "Trujillo plaza mayor estatua Pizarro"
+
+Mérida
+
+🔎 "Mérida teatro romano"
+
+Guadalupe
+
+🔎 "Monasterio de Guadalupe fachada"
+
+Murcia
+Cartagena
+
+🔎 "Cartagena teatro romano"
+
+Caravaca de la Cruz
+
+🔎 "Caravaca castillo santuario"
+
+Islas Baleares
+Deià
+
+🔎 "Deià Mallorca casas en terrazas montaña"
+
+Fornalutx
+
+🔎 "Fornalutx pueblo piedra Sierra Tramuntana"
+
+Binibeca
+
+🔎 "Binibeca pueblo blanco Menorca"
+
+Islas Canarias
+Garachico
+
+🔎 "Garachico piscinas naturales el Caletón"
+
+Masca
+
+🔎 "Masca barranco y caserío panorámica"
+
+Agulo
+
+🔎 "Agulo La Gomera mirador de Abrante"
+
+Tejeda
+
+🔎 "Tejeda Roque Nublo al fondo"
+
 
 
 
