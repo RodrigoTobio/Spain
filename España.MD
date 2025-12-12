@@ -176,5 +176,113 @@ Paisaje volcánico y ambiente lunar.
 Arquitectura canaria y clima suave.  
 ![La Orotava](https://imgs.search.brave.com/o-2xqGNZtb2cBTlCIJD_S9xMT8rFXhJZMqwzd7AmwcU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS53bXNtLmNvLzY3/ZTIxYmZmNmVhZjEv/Y2FzYS1kZS1sb3Mt/YmFsY29uZXMtbGEt/b3JvdGF2YS53ZWJw/P3F1YWxpdHk9ODAm/d2lkdGg9ODAwJmhl/aWdodD02MDAmYXNw/ZWN0X3JhdGlvPTgw/MDo2MDA)
 
+## SIN HACER
+## Galicia
+### Ribadeo
+### Viveiro
+### Cedeira
+### Baiona
+### Ribadavia
+
+## Asturias
+### Lastres
+### Tazones
+### Somiedo
+### Luarca
+### Cabo Vidio
+
+## Cantabria
+### Comillas
+### Suances
+### Castro Urdiales
+### Isla
+### Liencres
+
+## Castilla y León
+### León
+### Medina del Campo
+### Frías
+### Peñafiel
+### Ponferrada
+
+## Aragón
+### Aínsa
+### Alquézar
+### Jaca
+### Ansó
+### Canfranc
+
+## Cataluña
+### Rupit
+### Peratallada
+### Cadaqués
+### Tavertet
+### Bagà
+
+## Andalucía
+### Úbeda
+### Baeza
+### Nerja
+### Frigiliana
+### Setenil de las Bodegas
+
+## Comunidad Valenciana
+### Peñíscola
+### Morella
+### Xàtiva
+### Guadalest
+### Villajoyosa
+
+## Madrid
+### Chinchón
+### Alcalá de Henares
+### Aranjuez
+### San Lorenzo de El Escorial
+### Patones de Arriba
+
+## Castilla-La Mancha
+### Toledo
+### Consuegra
+### Almagro
+### Sigüenza
+### Cuenca (Casas Colgadas)
+
+## Navarra
+### Bardenas Reales
+### Tudela
+
+## País Vasco
+### Zumaia
+### Getaria
+### Bermeo
+### Lekeitio
+### Ondarroa
+
+## La Rioja
+### Haro
+### San Vicente de la Sonsierra
+### Ezcaray
+
+## Extremadura
+### Cáceres
+### Trujillo
+### Mérida
+### Guadalupe
+
+## Murcia
+### Cartagena
+### Caravaca de la Cruz
+
+## Islas Baleares
+### Deià
+### Fornalutx
+### Binibeca
+
+## Islas Canarias
+### Garachico (Tenerife)
+### Masca (Tenerife)
+### Agulo (La Gomera)
+### Tejeda (Gran Canaria)
+
 
 
