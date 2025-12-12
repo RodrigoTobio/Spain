@@ -1,4 +1,4 @@
-##Lugares de España
+## Lugares de España
 
 ---
 
@@ -175,5 +175,6 @@ Paisaje volcánico y ambiente lunar.
 ### **La Orotava (Tenerife)**
 Arquitectura canaria y clima suave.  
 ![La Orotava](https://imgs.search.brave.com/o-2xqGNZtb2cBTlCIJD_S9xMT8rFXhJZMqwzd7AmwcU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS53bXNtLmNvLzY3/ZTIxYmZmNmVhZjEv/Y2FzYS1kZS1sb3Mt/YmFsY29uZXMtbGEt/b3JvdGF2YS53ZWJw/P3F1YWxpdHk9ODAm/d2lkdGg9ODAwJmhl/aWdodD02MDAmYXNw/ZWN0X3JhdGlvPTgw/MDo2MDA)
+
 
 
